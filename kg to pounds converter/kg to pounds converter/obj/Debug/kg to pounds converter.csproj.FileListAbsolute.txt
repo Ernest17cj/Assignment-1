@@ -1,0 +1,10 @@
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\bin\Debug\kg to pounds converter.exe.config
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\bin\Debug\kg to pounds converter.exe
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\bin\Debug\kg to pounds converter.pdb
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\obj\Debug\kg to pounds converter.csprojAssemblyReference.cache
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\obj\Debug\kg_to_pounds_converter.Form1.resources
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\obj\Debug\kg_to_pounds_converter.Properties.Resources.resources
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\obj\Debug\kg to pounds converter.csproj.GenerateResource.cache
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\obj\Debug\kg to pounds converter.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\obj\Debug\kg to pounds converter.exe
+C:\Users\Ernest\Documents\400lvl\cen414\Assignments\kg to pounds converter\kg to pounds converter\obj\Debug\kg to pounds converter.pdb

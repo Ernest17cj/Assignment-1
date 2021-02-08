@@ -1,0 +1,10 @@
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\bin\Debug\bmi calculator.exe.config
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\bin\Debug\bmi calculator.exe
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\bin\Debug\bmi calculator.pdb
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\obj\Debug\bmi calculator.csprojAssemblyReference.cache
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\obj\Debug\bmi_calculator.Form1.resources
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\obj\Debug\bmi_calculator.Properties.Resources.resources
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\obj\Debug\bmi calculator.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\obj\Debug\bmi calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\obj\Debug\bmi calculator.exe
+C:\Users\Ernest\source\repos\bmi calculator\bmi calculator\obj\Debug\bmi calculator.pdb
